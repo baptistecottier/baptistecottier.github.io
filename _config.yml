@@ -1,0 +1,55 @@
+# Site settings
+title: "Baptiste Cottier"
+description: "PhD in cryptography — secure multi-party computation, oblivious transfer, protocol security."
+url: "https://baptistecottier.github.io"
+baseurl: ""
+locale: "en-US"
+repository: "baptistecottier/baptistecottier.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"   # air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
+
+author:
+  name: "Baptiste Cottier"
+  avatar: # "/assets/images/profile.jpg"  <- add your photo here
+  bio: "PhD in cryptography (ENS Paris & Inria)"
+  location: "Nord, France"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:baptiste.cottier@icloud.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/baptistecottier"
+    - label: "HAL"
+      icon: "fas fa-fw fa-book"
+      url: "https://hal.science/search/index/q/*/authIdHal_i/1162313"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/baptistecottier"
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
