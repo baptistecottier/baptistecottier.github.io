@@ -3,14 +3,12 @@ title: "À propos"
 permalink: /
 ---
 
-Je suis ingénieur de recherche chez Inria, dans l'équipe
+Je suis actuellement ingénieur de recherche chez Inria, dans l'équipe
 [MAGNET](https://team.inria.fr/magnet/).
 
-Docteur en cryptographie de l'École normale supérieure (Paris), j'ai préparé
-ma thèse en CIFRE entre Worldline et Inria, sous la direction d'Olivier Blazy
-et David Pointcheval.
+Docteur en mathématiques (spécialité informatique) de l'École normale supérieure d'Ulm, j'ai préparé ma thèse en CIFRE entre Worldline et Inria, sous la direction d'Olivier Blazy et David Pointcheval.
 
-Mes travaux portent sur la **cryptographie interactive** : calcul multipartite
+Mes travaux portaient sur la **cryptographie interactive** : calcul multipartite
 sécurisé, chiffrement homomorphe, transfert inconscient (*oblivious transfer*),
 apprentissage automatique respectueux de la vie privée et analyse de sécurité
 de protocoles (*Universal Composability*).
