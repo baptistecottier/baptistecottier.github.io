@@ -3,18 +3,18 @@ title: "Puzzles"
 permalink: /puzzles/
 ---
 
-Programming puzzles I solve in my spare time, mostly in Python.
-Solutions are on [GitHub](https://github.com/baptistecottier).
+Des puzzles de programmation que je résous sur mon temps libre, surtout en
+Python. Les solutions sont sur [GitHub](https://github.com/baptistecottier).
 
-| Site | Progress |
+| Site | Progression |
 | :-- | :-- |
-| [Advent of Code](https://adventofcode.com) | 491/524 ★ in Python · 202/524 ★ in Rust |
+| [Advent of Code](https://adventofcode.com) | 491/524 ★ en Python · 202/524 ★ en Rust |
 | [Everybody Codes](https://everybody.codes) | 155/216 ★ |
 | [Coding Quest](https://pbaumgarten.com/docs/codingchallenges/) | 26/34 ★ |
 | [Systems Check](https://systemscheck.dev) | 8/30 ★ |
 
-<sub>Last updated: November 2026.</sub>
+<sub>Mis à jour en novembre 2026.</sub>
 
-I also wrote [Puzzle Submitter](https://marketplace.visualstudio.com/items?itemName=baptistecottier.puzzle-submitter),
-a VS Code extension that fetches inputs, runs solutions and submits answers
-without leaving the editor.
+J'ai aussi écrit [Puzzle Submitter](https://marketplace.visualstudio.com/items?itemName=baptistecottier.puzzle-submitter),
+une extension VS Code qui récupère les entrées, lance les solutions et soumet
+les réponses sans quitter l'éditeur.

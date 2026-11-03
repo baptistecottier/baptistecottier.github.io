@@ -1,9 +1,9 @@
 # Site settings
 title: "Baptiste Cottier"
-description: "PhD in cryptography — secure multi-party computation, oblivious transfer, protocol security."
+description: "Ingénieur de recherche chez Inria (équipe MAGNET), docteur en cryptographie."
 url: "https://baptistecottier.github.io"
 baseurl: ""
-locale: "en-US"
+locale: "fr-FR"
 repository: "baptistecottier/baptistecottier.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -12,10 +12,10 @@ minimal_mistakes_skin: "default"   # air, aqua, contrast, dark, dirt, mint, neon
 author:
   name: "Baptiste Cottier"
   avatar: # "/assets/images/profile.jpg"  <- add your photo here
-  bio: "PhD in cryptography (ENS Paris & Inria)"
+  bio: "Ingénieur de recherche, Inria (équipe MAGNET)"
   location: "Nord, France"
   links:
-    - label: "Email"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:baptiste.cottier@icloud.com"
     - label: "GitHub"

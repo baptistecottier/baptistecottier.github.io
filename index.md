@@ -1,20 +1,21 @@
 ---
-title: "About"
+title: "À propos"
 permalink: /
 ---
 
-I hold a PhD in cryptography from the École normale supérieure (Paris), prepared
-as a CIFRE thesis between Worldline and Inria under the supervision of
-Olivier Blazy and David Pointcheval.
+Je suis ingénieur de recherche chez Inria, dans l'équipe
+[MAGNET](https://team.inria.fr/magnet/).
 
-My research focuses on **interactive cryptography**: secure multi-party
-computation, homomorphic encryption, oblivious transfer, privacy-preserving
-machine learning, and the security analysis of protocols (Universal
-Composability).
+Docteur en cryptographie de l'École normale supérieure (Paris), j'ai préparé
+ma thèse en CIFRE entre Worldline et Inria, sous la direction d'Olivier Blazy
+et David Pointcheval.
 
-<!-- TODO: one or two sentences about what you do now. -->
+Mes travaux portent sur la **cryptographie interactive** : calcul multipartite
+sécurisé, chiffrement homomorphe, transfert inconscient (*oblivious transfer*),
+apprentissage automatique respectueux de la vie privée et analyse de sécurité
+de protocoles (*Universal Composability*).
 
-## Highlights
+## En bref
 
-- **Best Paper Award** at FPS 2022 for *Security Analysis of Improved EDHOC Protocol* (with David Pointcheval).
-- PhD thesis: [*Contribution to interactive cryptography*](https://hal.science/tel-04253249v2) (2023).
+- **Best Paper Award** à FPS 2022 pour *Security Analysis of Improved EDHOC Protocol* (avec David Pointcheval).
+- Thèse : [*Contribution à la cryptographie interactive*](https://hal.science/tel-04253249v2) (2023).
