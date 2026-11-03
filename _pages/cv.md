@@ -10,10 +10,10 @@ permalink: /cv/
 ## Expériences professionnelles
 
 **Ingénieur de recherche** — Inria, équipe [MAGNET](https://team.inria.fr/magnet/)
-<!-- TODO : date de début -->
+*Depuis janvier 2025*
 
 **Consultant technique en financement de l'innovation** — Sogedev, Lille
-*Depuis septembre 2023*
+*Septembre 2023 – septembre 2024*
 Accompagnement des entreprises dans l'obtention de crédits d'impôt.
 
 **Chercheur postdoctoral — Apprentissage fédéré et calcul multipartite** — Inria, Villeneuve-d'Ascq
