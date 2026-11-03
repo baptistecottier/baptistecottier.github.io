@@ -3,17 +3,17 @@ title: "Publications"
 permalink: /publications/
 ---
 
-Full list on [HAL](https://hal.science/search/index/q/*/authIdHal_i/1162313).
+Liste complète sur [HAL](https://hal.science/search/index/q/*/authIdHal_i/1162313).
 
-## PhD thesis
+## Thèse
 
 - **Baptiste Cottier.**
-  *Contribution to interactive cryptography.*
-  PhD thesis, École normale supérieure, 2023.
+  *Contribution à la cryptographie interactive.*
+  Thèse de doctorat, École normale supérieure, 2023.
   [[HAL]](https://hal.science/tel-04253249v2)
   [[DOI]](https://doi.org/10.70675/a4dd8d4dz0988z4fe1zb3caz3e46bde974f0)
 
-## Conference papers
+## Articles de conférence
 
 - **Baptiste Cottier, David Pointcheval.**
   *Security Analysis of Improved EDHOC Protocol.*

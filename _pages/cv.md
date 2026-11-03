@@ -3,45 +3,48 @@ title: "CV"
 permalink: /cv/
 ---
 
-<!-- Put a public version of your CV (without phone number or address) at
-     assets/files/cv.pdf, then uncomment the line below. -->
-<!-- [Download the PDF](/assets/files/cv.pdf){: .btn .btn--primary} -->
+<!-- Mettre une version publique du CV (sans téléphone ni adresse) dans
+     assets/files/cv.pdf, puis décommenter la ligne ci-dessous. -->
+<!-- [Télécharger le PDF](/assets/files/cv.pdf){: .btn .btn--primary} -->
 
-## Experience
+## Expériences professionnelles
 
-**Technical consultant, innovation funding** — Sogedev, Lille
-*Since September 2023*
-Supporting companies in obtaining research and innovation tax credits.
+**Ingénieur de recherche** — Inria, équipe [MAGNET](https://team.inria.fr/magnet/)
+<!-- TODO : date de début -->
 
-**Postdoctoral researcher — Federated learning and multi-party computation** — Inria, Villeneuve d'Ascq
-*May 2023 – September 2023*
-Design of protocols that make use of private data confidentially.
+**Consultant technique en financement de l'innovation** — Sogedev, Lille
+*Depuis septembre 2023*
+Accompagnement des entreprises dans l'obtention de crédits d'impôt.
 
-**Lecturer (part-time)** — INSA Hauts-de-France, IMT Lille-Douai
-*Since March 2019*
-Lectures, tutorials and lab sessions introducing cryptography.
+**Chercheur postdoctoral — Apprentissage fédéré et calcul multipartite** — Inria, Villeneuve-d'Ascq
+*Mai 2023 – septembre 2023*
+Élaboration de protocoles exploitant des données privées de manière confidentielle.
 
-**PhD student (CIFRE) in cryptography** — Worldline & Inria Paris, Seclin
-*March 2019 – January 2023*
-- Secure multi-party computation (homomorphic encryption, oblivious transfer)
-- Machine learning
-- Security analysis (Universal Composability, attacker mindset)
+**Intervenant en enseignement supérieur** — INSA Hauts-de-France, IMT Lille-Douai
+*Depuis mars 2019*
+Cours magistraux, travaux dirigés et travaux pratiques d'initiation à la cryptographie.
 
-## Education
+**Doctorant CIFRE en cryptographie** — Worldline & Inria Paris, Seclin
+*Mars 2019 – janvier 2023*
+- Calcul multipartite sécurisé (chiffrement homomorphe, *oblivious transfer*)
+- Apprentissage automatique
+- Analyse de sécurité (*Universal Composability*, *attacker mindset*)
 
-**PhD in Computer Science** — École normale supérieure, Paris
+## Diplômes et formations
+
+**Doctorat en informatique** — École normale supérieure, Paris
 *2019 – 2023*
-Thesis: *Contribution to interactive cryptography*.
-Advisors: Olivier Blazy and David Pointcheval.
+Thèse : *Contribution à la cryptographie interactive*.
+Directeurs : Olivier Blazy et David Pointcheval.
 
-**Master CRYPTIS** (cryptography and information security) — Université de Limoges
-*2016 – 2018* — ranked first in class.
+**Master CRYPTIS** (cryptographie et sécurité de l'information) — Université de Limoges
+*2016 – 2018* — major de promotion.
 
-**Bachelor in Mathematics** — ICES, La Roche-sur-Yon
+**Licence de mathématiques** — ICES, La Roche-sur-Yon
 *2012 – 2015*
 
-## Skills
+## Compétences
 
-- **Cryptography:** MPC, homomorphic encryption, oblivious transfer, provable security, UC framework
-- **Tools:** LaTeX, Python
-- **Languages:** French (native), English (fluent, technical)
+- **Cryptographie :** calcul multipartite, chiffrement homomorphe, *oblivious transfer*, sécurité prouvée, modèle UC
+- **Outils :** LaTeX, Python
+- **Langues :** français (langue maternelle), anglais (courant, technique)
