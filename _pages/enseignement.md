@@ -13,11 +13,11 @@ d'initiation à la cryptographie, de manière ponctuelle, à :
 
 <!-- TODO : intitulés des cours, niveaux, années. -->
 
-### Théorie des nombres et cryptographie — INSA Hauts-de-France, 2026-2027
+### Introduction à la cryptographie — INSA Hauts-de-France, 2026-2027
 
 | Séance | Supports |
 | :-- | :-- |
-| CM 1 — Chiffrement à clé secrète, de César à AES | [slides (PDF)](/assets/cours/cm-jour1-cle-secrete.pdf) |
+| CM 1 — Le chiffrement à clé secrète, de César à AES | [slides (PDF)](/assets/cours/cm-jour1-cle-secrete.pdf) |
 
 ## Exposés
 
