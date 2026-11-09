@@ -1,5 +1,5 @@
 ---
-title: "Enseignement & exposés"
+title: "Enseignement"
 permalink: /enseignement/
 ---
 
