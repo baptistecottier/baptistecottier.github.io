@@ -16,7 +16,7 @@ d'initiation à la cryptographie, de manière ponctuelle, à :
 | Séance | Supports |
 | :-- | :-- |
 | CM 1 — Le chiffrement à clé secrète, de César à AES | [slides (PDF)](/assets/cours/cm-jour1-cle-secrete.pdf) |
-| TD 1 — Initiation à la cryptographie | [énoncé (PDF)](/assets/cours/td-jour1-cle-secrete.pdf) |
+| TD 1 — Initiation à la cryptographie | [énoncé (PDF)](/assets/cours/td-jour1-cle-secrete.pdf) · [corrigé des ex. 1, 3, 4 et 5 (PDF)](/assets/cours/td-jour1-cle-secrete-corrige.pdf) |
 | TP 1 — Python : fonctions de hachage | [énoncé (PDF)](/assets/cours/tp-jour1-fonctions-de-hachage.pdf) · [fichiers (ZIP)](/assets/cours/tp-jour1-fonctions-de-hachage-fichiers.zip) |
 
 <!-- TODO : liste des exposés, par exemple :
