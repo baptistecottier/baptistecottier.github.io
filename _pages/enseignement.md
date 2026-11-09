@@ -18,6 +18,7 @@ d'initiation à la cryptographie, de manière ponctuelle, à :
 | Séance | Supports |
 | :-- | :-- |
 | CM 1 — Le chiffrement à clé secrète, de César à AES | [slides (PDF)](/assets/cours/cm-jour1-cle-secrete.pdf) |
+| TD 1 — Initiation à la cryptographie | [énoncé (PDF)](/assets/cours/td-jour1-cle-secrete.pdf) |
 
 ## Exposés
 
